@@ -1,2 +1,3 @@
 # git_test
-just testing
+git is a great fit.
+
